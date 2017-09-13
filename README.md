@@ -22,7 +22,7 @@ Terraform will need a reference to a key pair on its hosts, so it can connect to
 
 Specify your credentials , edit *provider.tf* file with your personal credentials, aka "username" and "password"
 
-Edit *ressources.tf* with your keypair "name", <public_key> and the path to your "private_key" to deploy Kubernetes packages through remote-exec connection process. 
+Edit *ressources.tf* with your keypair "name", "public_key" and the path to your "private_key" to deploy Kubernetes packages through remote-exec connection process. 
 
 **2. Create your infrastructure**
 
