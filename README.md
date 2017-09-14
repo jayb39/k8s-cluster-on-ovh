@@ -11,9 +11,7 @@ Install Terraform on your laptop or build server following instructions given by
 **OVH**
 
 In order to use OVH Openstack APIs you will need to create specific user credentials in the OVH manager console. (Go to your cloud project, openstack menu, create a user)
-
-![Ovhmanaager](/images/ovhmanager.png)
-Format: ![OVH manager snapshot](url)
+![Ovhmananager](ovhmanager.png "ovhmanager")
 
 **SSH KeyPairs**
 
